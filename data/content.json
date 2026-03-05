@@ -1,0 +1,295 @@
+{
+  "programs": [
+    {
+      "title": "Health Care Support",
+      "description": "Medical referrals, periodic medical assistance, and support for essential treatment for vulnerable beneficiaries."
+    },
+    {
+      "title": "Educational Assistance",
+      "description": "School materials, learning support, and yearly back-to-school support to keep children in education."
+    },
+    {
+      "title": "Basic Living Needs",
+      "description": "Monthly financial support, food support cycles, and essential seasonal items for dignity and stability."
+    }
+  ],
+  "stories": [
+    {
+      "title": "New Year Support Distribution",
+      "date": "September 2025",
+      "summary": "Families received clothing and education materials to begin the Ethiopian New Year with confidence and dignity."
+    },
+    {
+      "title": "Quarterly Medical Assistance Cycle",
+      "date": "June 2025",
+      "summary": "The foundation completed one of its periodic medical support rounds for elderly and disability-focused households."
+    },
+    {
+      "title": "Community Partnership Outreach",
+      "date": "March 2025",
+      "summary": "Local supporters joined outreach activities to expand visibility and sustain monthly support commitments."
+    }
+  ],
+  "galleryData": [
+    {
+      "date": "May 13, 2023",
+      "subtitle": "Foundation Outreach",
+      "items": [
+        {
+          "type": "image",
+          "src": "/media/A.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/B.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/C.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/D.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/E.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/F.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/G.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/H.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/9.jpg"
+        }
+      ]
+    },
+    {
+      "date": "May 14, 2023",
+      "subtitle": "During progress evaluation meeting",
+      "items": [
+        {
+          "type": "image",
+          "src": "/media/10.jpg"
+        }
+      ]
+    },
+    {
+      "date": "May 16, 2023",
+      "subtitle": "Community Activities",
+      "items": [
+        {
+          "type": "image",
+          "src": "/media/11.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/12.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/13.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/14.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/15.jpg"
+        },
+        {
+          "type": "video",
+          "src": "/media/16.mp4"
+        },
+        {
+          "type": "image",
+          "src": "/media/17.jpg"
+        }
+      ]
+    },
+    {
+      "date": "September 13, 2023",
+      "subtitle": "Celebrating Ethiopian New Year",
+      "items": [
+        {
+          "type": "image",
+          "src": "/media/18.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/19.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/20.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/21.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/22.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/23.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/24.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/25.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/26.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/27.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/28.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/29.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/30.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/31.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/32.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/33.jpg"
+        }
+      ]
+    },
+    {
+      "date": "July 3, 2025",
+      "subtitle": "Food, educational materials, and clothing support for vulnerable elders and children.",
+      "items": [
+        {
+          "type": "image",
+          "src": "/media/34.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/35.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/36.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/37.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/38.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/39.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/40.jpg"
+        }
+      ]
+    },
+    {
+      "date": "July 4, 2025",
+      "subtitle": "Diapers, wipes, and medicine support for children at Kibebe Tsehay Child Development Organization.",
+      "items": [
+        {
+          "type": "image",
+          "src": "/media/41.jpg"
+        }
+      ]
+    },
+    {
+      "date": "July 5, 2025",
+      "subtitle": "Diaper support for vulnerable elders at Kebere Aregawiyan and partner care organizations.",
+      "items": [
+        {
+          "type": "image",
+          "src": "/media/43.jpg"
+        }
+      ]
+    },
+    {
+      "date": "September 7, 2025",
+      "subtitle": "With Ethio Telecom support: school material support for children and student beneficiaries.",
+      "items": [
+        {
+          "type": "image",
+          "src": "/media/52.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/53.jpg"
+        }
+      ]
+    },
+    {
+      "date": "September 7, 2025",
+      "subtitle": "Celebrating Ethiopian New Year",
+      "items": [
+        {
+          "type": "image",
+          "src": "/media/46.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/47.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/48.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/49.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/media/50.jpg"
+        }
+      ]
+    },
+    {
+      "date": "September 10, 2025",
+      "subtitle": "At PSD bank Arena Stadium, Frankfurt Germany",
+      "items": [
+        {
+          "type": "video",
+          "src": "/media/video.mp4"
+        }
+      ]
+    }
+  ]
+}
