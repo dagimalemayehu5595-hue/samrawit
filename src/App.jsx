@@ -252,14 +252,6 @@ function AppLayout({ content, setContent }) {
           <div className="footer-bottom-left">
             <span>Designed and Developed by Dagim Alemayehu | Contact: 0930105595 / 0917923211</span><br /><span>Samrawit Foundation &copy; {new Date().getFullYear()}</span>
           </div>
-          <div style={{display:'flex',justifyContent:'center',alignItems:'center',margin:'12px 0'}}>
-            <a href="https://web.facebook.com/profile.php?id=100090874201533" target="_blank" rel="noreferrer" title="Facebook">
-              <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" style={{width:'32px',height:'32px',borderRadius:'8px',background:'#e0e7ff',padding:'5px',boxShadow:'0 2px 8px rgba(102,126,234,0.10)',margin:'0 12px'}} />
-            </a>
-            <a href="https://x.com/samrawitfound" target="_blank" rel="noreferrer" title="X">
-              <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="X" style={{width:'32px',height:'32px',borderRadius:'8px',background:'#e0e7ff',padding:'5px',boxShadow:'0 2px 8px rgba(102,126,234,0.10)',margin:'0 12px'}} />
-            </a>
-          </div>
           <div className="footer-bottom-right">
             <a href="#" className="footer-legal">Privacy Policy</a>
             <span className="footer-divider">|</span>
