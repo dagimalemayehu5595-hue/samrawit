@@ -672,9 +672,9 @@ a {
 }
 
 .team-card img {
-  width: calc(100% - 24px);
-  margin: 14px 12px 6px;
-  height: 228px;
+  width: calc(100% - 20px);
+  margin: 14px 10px 8px;
+  height: 250px;
   object-fit: contain;
   object-position: center;
   background:
@@ -682,7 +682,7 @@ a {
   border: 1px solid #d1dcff;
   border-radius: 18px;
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.8), 0 10px 22px rgba(50, 68, 142, 0.12);
-  padding: 12px;
+  padding: 8px;
   display: block;
   transition: transform 0.28s ease, box-shadow 0.28s ease;
 }
@@ -727,7 +727,7 @@ a {
   }
 
   .team-card img {
-    height: 208px;
+    height: 220px;
   }
 }
 

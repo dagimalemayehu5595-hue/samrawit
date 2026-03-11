@@ -118,9 +118,9 @@ const impactCards = [
 const teamMembers = [
   { name: 'Eng. Tagel Nigatu', role: 'Executive Director', image: '/media/tagel.jpg' },
   { name: 'Ethaferahu Andarge', role: 'Chairman, Board of Directors', image: '/media/eta.jpg' },
-  { name: 'Ato Gizaw Alemu', role: 'Member, Board of Directors', image: '/media/genet.jpg' },
+  { name: 'Ato Gizaw Alemu', role: 'Member, Board of Directors', image: '/media/get.jpg' },
   { name: 'Ato Wubamlak Mekonen', role: 'Member, Board of Directors', image: '/media/web.jpg' },
-  { name: 'Genet Nigatu', role: 'School Material Assistance', image: '/media/genet.jpg' }
+  { name: 'Genet Nigatu', role: 'Goodwill Ambassador', image: '/media/genet.jpg' }
 ];
 
 
@@ -227,11 +227,17 @@ function AppLayout({ content, setContent }) {
           </div>
           <div className="footer-col">
             <h4>STAY CONNECTED</h4>
-            <div className="footer-socials">
+            <div className="footer-socials" style={{display:'grid',gridTemplateColumns:'repeat(4,1fr)',gap:'18px',justifyItems:'center'}}>
               <a href="mailto:samrawitfoundation@gmail.com" title="Email"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" /></a>
               <a href="https://t.me/samrawitfoundation" target="_blank" rel="noreferrer" title="Telegram"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" /></a>
               <a href="https://wa.me/251911246519" target="_blank" rel="noreferrer" title="WhatsApp"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" /></a>
               <a href="https://www.instagram.com/samrawitfoundation/" target="_blank" rel="noreferrer" title="Instagram"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" /></a>
+              <a href="https://web.facebook.com/profile.php?id=100090874201533" target="_blank" rel="noreferrer" title="Facebook" style={{gridColumn:'2'}}>
+                <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" style={{width:'32px',height:'32px',borderRadius:'8px',background:'#e0e7ff',padding:'5px',boxShadow:'0 2px 8px rgba(102,126,234,0.10)'}} />
+              </a>
+              <a href="https://x.com/samrawitfound" target="_blank" rel="noreferrer" title="X" style={{gridColumn:'3'}}>
+                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="X" style={{width:'32px',height:'32px',borderRadius:'8px',background:'#e0e7ff',padding:'5px',boxShadow:'0 2px 8px rgba(102,126,234,0.10)'}} />
+              </a>
             </div>
           </div>
           <div className="footer-col">
